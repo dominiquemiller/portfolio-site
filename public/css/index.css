@@ -32,15 +32,31 @@ body {
   text-align: center;
 }
 
-.jumbotron {
-  font-size: 70px;
-  color: white;
-  margin: auto;
+.toppage {
   background-image: url("../images/html_code.jpg");
 }
 
+.me {
+  margin-left: 125px;
+}
+.introtext {
+  font-size: 70px;
+  color: white;
+  margin-top: 30px;
+}
+.introtext2 {
+  font-size: 40px;
+  color: white;
+  margin-top: 30px;
+}
 .dropdown {
     display: inline-block;
+}
+
+.portfolio {
+  width: 150px;
+  height: 200px;
+  margin-left: 0
 }
 
 .projects {

@@ -4,6 +4,7 @@ body {
   color: #5a5a5a;
 }
 
+
 .profile_pic {
   float: left;
 }
@@ -36,9 +37,8 @@ body {
   text-align: center;
 }
 
-.jumbotron {
+.toppage {
   font-size: 60px;
-  margin: auto;
 }
 
 .projects {
